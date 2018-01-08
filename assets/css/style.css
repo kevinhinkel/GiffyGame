@@ -33,7 +33,7 @@ input[type="text"] {
 
 button,
 input[type="submit"] {
-	background: #659A98;
+	background: #C70039;
 	color: #ffffff;
 	border: 0;
 	border-radius: 5px;
@@ -45,11 +45,12 @@ input[type="submit"] {
 }
 button:hover,
 input[type="submit"]:hover {
-	background-color: #334E4D;
+	background-color: #900C3F;
 }
 button.active {
-	background: #334E4D;
+	background: #C70039;
 }
+
 
 
 
